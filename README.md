@@ -43,3 +43,12 @@ Custom Domain Name:        _____________.____
 Subdomain Name:            _________.altarweb.com
 Link Method:               ( ) HTTP Redirection ( ) HTML Embed ( ) Subdomain
 ))
+
+# Why should i use AltarServer?
+
+For Creators: Its easy-to-use, reliable, and free!
+For Users:    You can find so many websites made by creators and professional coders!
+
+# How do i start finding websites?
+
+[Go to AltarServer](https://altarweb.com/)
