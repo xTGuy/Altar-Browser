@@ -13,7 +13,7 @@ Note: AltarServer is a Google Sites website currently. AltarServer is going to s
 
 # How do i create a website?
 
-Just send me a (eMail)[mailto:alex@altarweb.com]!
+Just send me a [eMail](mailto:alex@altarweb.com)!
 Heres the eMail template (Just fill in the blanks):
 
 -------------------------------------------------------------------------------------
