@@ -7,4 +7,6 @@ Note: AltarServer is a Google Sites website currently. AltarServer is going to s
 | Website Name | On https:// | On altar:// | Creator   | Featured |
 |--------------|-------------|-------------|-----------|----------|
 | altar.com    | False       | True        | Altar Co. | True     |
-| Search.srv   | False       | True        | Altar Co. | True     |
+| Search.srv   | False       | True        | Altar Co. | System   |
+| google.com   | True        | True        | Altar Co. | False    |
+| home.srv     | False       | True        | Altar Co. | System   |
